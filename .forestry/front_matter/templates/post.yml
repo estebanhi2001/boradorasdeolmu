@@ -52,8 +52,8 @@ fields:
   config:
     required: true
 pages:
-- src/pages/posts/veroeros.md
 - src/pages/posts/ultricies.md
+- src/pages/posts/veroeros.md
 - src/pages/posts/tempus.md
 - src/pages/posts/pretium.md
 - src/pages/posts/nullam.md
